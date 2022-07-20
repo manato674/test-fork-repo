@@ -1,8 +1,7 @@
-# my-first-test-repo
+# test-fork-repo
 
-テスト用のリポジトリです．
+フォークのテスト用のリポジトリです．
 
 - 最初のコミットを実行します．
 - featureブランチで追加します．
 - 更にdevelopmentブランチで追加します．
-
